@@ -73,6 +73,7 @@ h1{
   .topnav .search-container {
     float: none;
   }
+}
 
   .search-bar input[type=text] {
   border: 1px solid #ccc;
