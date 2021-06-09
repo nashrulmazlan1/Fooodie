@@ -69,12 +69,6 @@ h1{
   background: #ccc;
 }
 
-@media screen and (max-width: 600px) {
-  .topnav .search-container {
-    float: none;
-  }
-}
-
   .search-bar input[type=text] {
   border: 1px solid #ccc;
 }
