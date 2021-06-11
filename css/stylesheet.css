@@ -17,13 +17,13 @@ h1 {
 
 #title {
   background-color: #ecdbba;
-  color: #fff;
+  color: black;
 }
 
 #footer {
   font-family: "Ubuntu", sans-serif;
   background-color: #1768ac;
-  color: #fff;
+  color: #black;
 }
 
 /* containers */
