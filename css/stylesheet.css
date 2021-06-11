@@ -11,6 +11,10 @@ h1 {
   line-height: 1.5;
 }
 
+.title{
+  color: black;
+}
+
 #title {
   background-color: #ecdbba;
   color: #fff;
